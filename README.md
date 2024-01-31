@@ -1,6 +1,6 @@
 # DevinNET-Clock
-DevinNET Clock is a macOS app that displays every country's current time.
-Its only for MacOS and was created with XCode. 
+DevinNET Clock (1.0) is a macOS app that displays every country's current time.
+Its only for newer Versions of MacOS and was created with XCode. 
 
 ![prev](https://github.com/DevinNetwork/DevinNET-Clock/assets/158351052/07ea6e63-ec2e-4634-9fbf-0d1008900d49)
 
